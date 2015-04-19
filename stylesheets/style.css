@@ -26,6 +26,22 @@ header nav {
   width: 285px;
 }
 
+h1 {
+  text-shadow: 2px 2px black;
+}
+
+h2 {
+  color: red;
+}
+
+ul {
+  font-weight:bold;
+}
+
+li {
+  font-style:oblique;
+}
+
 main {
   background: white;
   overflow: auto;
@@ -40,6 +56,8 @@ main .right {
   float: right;
   width: 285px;
 }
+
+
 
 footer .left {
   float: left;
